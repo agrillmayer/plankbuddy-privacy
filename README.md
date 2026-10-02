@@ -1,0 +1,2 @@
+# plankbuddy-privacy
+Datenschutzerklärung PlankBuddy
